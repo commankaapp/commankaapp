@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "HKAN5AQ2FP.com.manka.app",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
